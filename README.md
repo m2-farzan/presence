@@ -16,7 +16,7 @@ wget -O ~/.local/bin/presence ${URL_}
 ```
 
 # CLI Args
-```bash
+```
 usage: presence.py [-h]
                    [PERIOD ...] [ACTIVE_VOLUME ...]
                    [INACTIVE_VOLUME ...]
